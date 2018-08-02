@@ -1,2 +1,5 @@
 # JetBrain IDE files
 .idea
+
+# go build files
+sapConnector
